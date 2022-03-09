@@ -1,0 +1,7 @@
+Hi there :D
+
+You can find jar file in out/artifacts .After you find it,you can use it for calculations etc.
+
+Hint:If you cannot open jar file, open cmd and type "java -jar BillCalculator" or "java -jar (location of jar file)"
+
+
